@@ -1,0 +1,18 @@
+admin starting url:971004231fb4ea915cd9bf7ba618db08
+admin login controller name:A971004231fb4ea915cd9bf7ba618db08
+admin home controller name:Ah971004231fb4ea915cd9bf7ba618db08
+admin folder in controller:a971004231fb4ea915cd9bf7ba618db08
+admin userdetails controller name:Au750e27dc08f5f25a23b063af0049e499
+admin mutualfund setting controller name:Am7bd7f010446e8492085f44ab07c82bc6
+admin insurance setting controller name:Aiafb8a138a6123e6f7691460cce0ce482
+admin fixed deposit setting controller name:Af991b420fc53021ef434fb355a8d9b2b1
+admin loan setting controller name:Al7316026433fd703a8e4f674f41f3cfac
+admin category setting controller name:Ac657fb5f86950981e0da0c4ed241ad988
+admin message controller name:Asaa08fe4d43d320e9e728f3045b46dec3
+admin tax setting controller name:At526f5a846491098707703b187cc258d6
+admin profile setting controller name:Apaf7f5c2b560f6548b47180d950bebffd
+admin bank insert controller name:Ab3b43dd37e50e8fdb6fd2c1f2cc9a20c7
+signup confirm controller name :Ec6574ba6e144c89e513abde7479b20443
+signup controller folder name :mc00bec55e95218d80c94a0687890f7e9c
+admin chatadmincontroller name:Ach36420471291bf9e5d4cee3c34fac124e
+chatcontrol entry name:c7hspr44
